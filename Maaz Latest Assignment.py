@@ -9,6 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# File path of Xlsx file
 file_path = 'C:\\Users\\MAZ YAFAI\\OneDrive\\Desktop\\Climate.xlsx' 
 data = pd.read_excel(file_path)
 
